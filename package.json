@@ -2,7 +2,7 @@
   "name": "a",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://HabibaNezar.github.io/E-commerce-freshcart",
+  "homepage": "https://HabibaNezar.github.io/FreshCart_React-Project-_Route-Graduation-project-",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
